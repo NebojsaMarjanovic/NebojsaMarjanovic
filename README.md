@@ -33,5 +33,5 @@ I love to read books and listen to music.
 
 ### Where to find me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/thestoryteller/](https://www.linkedin.com/in/nebojsa-marjanovic-876432183/)) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nebojsa-marjanovic-876432183/)]) 
 [![Mail](https://img.shields.io/badge/Gmail-nebojsamarjanovic6@gmail.com-red?logo=gmail)]

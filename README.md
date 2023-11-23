@@ -25,7 +25,7 @@ Currently, **I work as a Software Developer in global fintech company**.
 
 I love to read books and listen to music.
 
-- 💻 This folder has stuff from my studies and work. Cool projects in here include:
+- 💻 This folder has stuff from my studies and work. Cool projects included here:
   - **RealEstatePriceForecaster** - Full-stack application dedicated to forecasting and estimating real estate prices.
   - **WineTourOrganizer** - Full-stack application which provides comprehensive tour management solutions for travel agency staff while also allowing customers to reserve wine tours across locations in Serbia.
   - **DocumentationProcessor** - Windows Forms application for streamlined contract processing in the procurement workflow, based on real document requirements and specifications.

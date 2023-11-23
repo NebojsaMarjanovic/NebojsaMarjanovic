@@ -23,7 +23,7 @@ I am a highly motivated .NET Software Developer with a specialization in Backend
 
 Currently, **I work as a Software Developer in global fintech company**.
 
-I love to read books and listen to music.
+I love to watch basketball and quizzes.
 
 - 💻 This folder has stuff from my studies and work. Cool projects included here:
   - **RealEstatePriceForecaster** - Full-stack application dedicated to forecasting and estimating real estate prices.
@@ -32,6 +32,5 @@ I love to read books and listen to music.
   - **WorldCupQatarPulse** - Full-stack application designed for efficient management and tracking of matches, groups, and teams in the World Cup Qatar.
 
 ### Where to find me
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nebojsa-marjanovic-876432183/)]) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nebojsa-marjanovic-876432183/) 
 [![Mail](https://img.shields.io/badge/Gmail-nebojsamarjanovic6@gmail.com-red?logo=gmail)]

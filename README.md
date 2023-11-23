@@ -19,7 +19,7 @@
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
 
-I am a highly motivated .NET Software Developer with a specialization in Backend development and a foundation built through hands-on projects, academic coursework and valuable industry experience, but I also have hands-on experience with frontend technologies, particularly in React & machine learning through projects implemented with ML.NET. 
+I am a highly motivated .NET Software Developer with a specialization in Backend development and a foundation built through hands-on projects, academic coursework and valuable industry experience.Also, I have hands-on experience with frontend technologies, particularly in React & machine learning through projects implemented with ML.NET. 
 
 Currently, **I work as a Software Developer in global fintech company**.
 

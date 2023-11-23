@@ -20,14 +20,13 @@
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
 
 I am a highly motivated .NET Software Developer with a specialization in Backend development and a foundation built through hands-on projects, academic coursework and valuable industry experience.
-
 Also, I have hands-on experience with frontend technologies, particularly in React & machine learning through projects implemented with ML.NET. 
 
 Currently, **I work as a Software Developer in global fintech company**.
 
 I love to watch basketball and quizzes.
 
-- 💻 This folder has stuff from my studies and work. Cool projects included here:
+### This folder has stuff from my studies and work. Cool projects included here: ###
   
   - **RealEstatePriceForecaster** - Full-stack application dedicated to forecasting and estimating real estate prices.
   - **WineTourOrganizer** - Full-stack application which provides comprehensive tour management solutions for travel agency staff while also allowing customers to reserve wine tours across locations in Serbia.

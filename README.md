@@ -36,4 +36,4 @@ I love to watch basketball and quizzes.
 
 ### Where to find me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nebojsa-marjanovic-876432183/) 
-[![Mail](https://img.shields.io/badge/Gmail-nebojsamarjanovic6@gmail.com-red?logo=gmail)]
+[![Mail](https://img.shields.io/badge/Gmail-nebojsamarjanovic6@gmail.com-red?logo=gmail)
